@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.iml
+*/*.iml
+*/target/
+.idea/
+将删除 .idea/
+将删除 README.md
+将删除 builder/
+将删除 factory/
+将删除 pom.xml
+将删除 singleton/
