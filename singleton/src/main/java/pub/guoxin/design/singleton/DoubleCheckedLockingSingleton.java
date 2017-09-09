@@ -1,4 +1,4 @@
-package singleton;
+package pub.guoxin.design.singleton;
 
 /**
  * 双重锁

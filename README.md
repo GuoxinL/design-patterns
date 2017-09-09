@@ -34,5 +34,8 @@
 ###合成复用原则（Composite Reuse Principle）
 
 原则是尽量使用合成/聚合的方式，而不是使用继承。
+
+
 ##引用
 [设计模式（Design Patterns）](http://www.cnblogs.com/maowang1991/archive/2013/04/15/3023236.html)
+建造者模式(Builder Patterns) 的例子有点问题，这篇文章的例子不好。

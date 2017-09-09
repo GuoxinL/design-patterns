@@ -1,7 +1,7 @@
-package pub.guoxin.design.main;
+package pub.guoxin.design.factory.main;
 
-import pub.guoxin.design.SendFactory;
-import pub.guoxin.design.Sender;
+import pub.guoxin.design.factory.SendFactory;
+import pub.guoxin.design.factory.Sender;
 
 /**
  * Created by guoxin on 17-9-8.

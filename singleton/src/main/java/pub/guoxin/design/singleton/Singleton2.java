@@ -1,4 +1,4 @@
-package singleton;
+package pub.guoxin.design.singleton;
 
 /**
  * Created by guoxin on 17-9-9.

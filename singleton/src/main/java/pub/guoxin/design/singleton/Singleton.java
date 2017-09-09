@@ -1,4 +1,4 @@
-package singleton;
+package pub.guoxin.design.singleton;
 
 /**
  * 懒汉式，非线程安全
