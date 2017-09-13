@@ -9,17 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <artifactId>behavioral-pattern</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>adapter</module>
-        <module>decorator</module>
-        <module>proxy</module>
-        <module>facade</module>
-        <module>bridge</module>
-        <module>composite</module>
-        <module>flyweight</module>
+        <module>strategy</module>
     </modules>
-    <artifactId>structural-patterns</artifactId>
 
 
 </project>
