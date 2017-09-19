@@ -19,6 +19,7 @@
         <module>chain-of-responsibility</module>
         <module>command</module>
         <module>Memento</module>
+        <module>state</module>
     </modules>
 
 

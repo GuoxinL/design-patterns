@@ -1,6 +1,12 @@
 package pub.guoxin.design.factory;
 
 /**
+ * 抽象
+ * 名词: 抽象, 摘要, 文摘, 提要, 撮要, 大要
+ * 动词: 提取, 提炼, 抽炼, 提出物
+ * 形容词: 抽象的
+
+
  * Created by guoxin on 17-9-9.
  */
 public class AbstractFactoryApplication {

@@ -2,6 +2,8 @@ package pub.guoxin.design.singleton;
 
 /**
  * 懒汉式，非线程安全
+ * 独生子
+ * 名词:独生子, 独身, 独身生活
  * Created by guoxin on 17-9-9.
  */
 public class Singleton {

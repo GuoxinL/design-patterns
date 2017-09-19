@@ -39,4 +39,6 @@
 ##引用
 [设计模式（Design Patterns）](http://www.cnblogs.com/maowang1991/archive/2013/04/15/3023236.html)
 建造者模式(Builder Patterns) 的例子有点问题，这篇文章的例子不好。
-[Builder模式在Java中的应用](http://www.cnblogs.com/moonz-wu/archive/2011/01/11/1932473.html)
+[Builder模式在Java中的应用](http://www.cnblogs.com/moonz-wu/archive/2011/01/11/1932473.html)  
+[状态模式State（对象行为型）](http://blog.csdn.net/hguisu/article/details/7557252)  
+

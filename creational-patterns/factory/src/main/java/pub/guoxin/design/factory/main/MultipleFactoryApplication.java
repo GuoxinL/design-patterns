@@ -3,6 +3,7 @@ package pub.guoxin.design.factory.main;
 import pub.guoxin.design.factory.SendFactory;
 
 /**
+ * 多工厂
  * Created by guoxin on 17-9-8.
  */
 public class MultipleFactoryApplication {
