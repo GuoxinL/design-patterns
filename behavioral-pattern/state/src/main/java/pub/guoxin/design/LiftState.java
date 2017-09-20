@@ -9,10 +9,6 @@ public abstract class LiftState {
 
     protected Context context;
 
-    public LiftState(Context context) {
-        this.context = context;
-    }
-
     protected void setContext(Context context){
         this.context = context;
     }

@@ -4,9 +4,6 @@ package pub.guoxin.design;
  * Created by guoxin on 17-9-19.
  */
 public class StopingState extends LiftState{
-    public StopingState(Context context) {
-        super(context);
-    }
 
     @Override
     public void open() {

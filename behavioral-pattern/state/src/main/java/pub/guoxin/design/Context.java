@@ -13,14 +13,14 @@ public class Context {
 
     }
 
-    public Context(){
+    private LiftState liftState;
+
+    public Context() {
         OPENING_DOOR = new OpenningState();
         CLOSING_DOOR = new CloseingState();
         RUNNING_LIFT = new RunningState();
         STOPING_LIFT = new StopingState();
     }
-
-    private LiftState liftState = CLOSING_DOOR;
 
     public LiftState getLiftState() {
         return liftState;
@@ -28,21 +28,22 @@ public class Context {
 
     public void setLiftState(LiftState liftState) {
         this.liftState = liftState;
+        this.liftState.setContext(this);
     }
 
-    public void open(){
+    public void open() {
         this.liftState.open();
     }
 
-    public void close(){
+    public void close() {
         this.liftState.close();
     }
 
-    public void run(){
+    public void run() {
         this.liftState.run();
     }
 
-    public void stop(){
+    public void stop() {
         this.liftState.stop();
     }
 }
